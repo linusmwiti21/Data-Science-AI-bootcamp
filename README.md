@@ -28,5 +28,5 @@ The primary purpose of this repository is to:
 
 **Share Knowledge**: Share my code and projects with peers, mentors, and potential employers to demonstrate my programming skills and understanding of key concepts.
 
-**Receive Feedback**: Seek feedback from peers and mentors to improve your coding skills, troubleshoot issues, and learn best practices.
+**Receive Feedback**: Seek feedback from peers and mentors to improve my coding skills, troubleshoot issues, and learn best practices.
 
